@@ -1,6 +1,0 @@
-LogFile available on D drive ::
-True
-WebContent available on D drive :: 
-True
-LogLocation fowarded to D:/Logfile ::
-IIS Components currently installed ::
