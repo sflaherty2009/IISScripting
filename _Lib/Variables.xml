@@ -1,0 +1,8 @@
+<variables>
+	<version>v0.38</version>
+	<IISInstallVersion>0.09</IISInstallVersion>
+	<IISWebsiteConfigVersion>0.07</IISWebsiteConfigVersion>
+	<IISWebsiteInstallVersion>0.31</IISWebsiteInstallVersion>
+	<IISWebsiteRemovalVersion>0.12</IISWebsiteRemovalVersion>
+	<LauncherVersion>0.03</LauncherVersion>
+</variables>
